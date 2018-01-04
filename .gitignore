@@ -30,3 +30,4 @@ node_modules
 # Test file
 test.js
 *.test.js
+package-lock.json
